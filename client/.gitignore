@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.env.local
+.env.*.local
+.env.exemple
+.DS_Store
+*.log
+PROJECT-FILES.md
+AGENTS.md
+QUICKSTART.md
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
